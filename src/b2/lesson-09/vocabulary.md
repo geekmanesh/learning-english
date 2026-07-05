@@ -1,4 +1,4 @@
-# A1 — Vocabulary
+# B2 — Vocabulary
 
 | Word/Phrase | Meaning | Example |
 |---|---|---|
